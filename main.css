@@ -260,7 +260,7 @@ ul {
 }
 .nav-header img {
   width: 200px;
-  mix-blend-mode:color-dodge; /* Change the blend mode as needed */
+  mix-blend-mode:color-dodge;
   object-fit: cover;
 }
 .nav-logo {
@@ -374,7 +374,7 @@ ul {
   height: 40vh;
   position: relative;
   margin-bottom: 2rem;
-  background: url('../assets/main.jpg') center/cover no-repeat;
+  background: url('assets/main.jpg') center/cover no-repeat;
   border-radius: var(--borderRadius);
 }
 .hero-container {
